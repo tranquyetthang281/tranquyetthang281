@@ -6,6 +6,10 @@ I love math and physics, that's why I chose to be a programmer. 😂😅
 
 Thank you for visiting my GitHub. Hope you find some fun here.
 
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
+</div>
+
 <!--
 **tranquyetthang281/tranquyetthang281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
