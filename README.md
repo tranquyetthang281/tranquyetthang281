@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m a software engineer, I have worked in this field for about 2 years. 
+
+I love math and physics, that's why I chose to be a programmer. 😂😅
+
+Thank you for visiting my GitHub. Hope you find some fun here.
+
 <!--
 **tranquyetthang281/tranquyetthang281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
